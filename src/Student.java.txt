@@ -1,14 +1,18 @@
 public class Student{
+private String name;
+int rollno;
 
+public void Hello()
+	{
 
-
-
-
-
-
+	}
 
 
 	public void Hello2()
-{
-}
+	{
+	}
+
+	
+
+
 }
